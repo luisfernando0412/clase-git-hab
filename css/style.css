@@ -7,3 +7,17 @@ h1{
     font-family: sans-serif;
     color: blue;
 }
+
+.hola-mundo{
+    background-color: antiquewhite;
+    text-align: center;
+    max-width: 650px;
+    margin: 15px auto;
+}
+
+ @media (max-width: 550px){
+ .hola-mundo{
+    background-color: aqua;
+    
+ }
+    }
